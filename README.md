@@ -2,6 +2,8 @@
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
 ### Responsive Portfolio Website Alexa
 
+# 私は勉強のためにこのレポジトリを使います
+
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a light and dark mode.
